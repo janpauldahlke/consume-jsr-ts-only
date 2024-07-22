@@ -1,0 +1,16 @@
+{
+  "name": "consume-ts-is-odd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hail-discordia/is-odd-ts": "npm:@jsr/hail-discordia__is-odd-ts@^0.1.0"
+  }
+}

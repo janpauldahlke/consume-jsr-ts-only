@@ -1,0 +1,22 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:@jsr/hail-discordia__is-odd-ts@^0.1.0": "npm:@jsr/hail-discordia__is-odd-ts@0.1.0"
+    },
+    "npm": {
+      "@jsr/hail-discordia__is-odd-ts@0.1.0": {
+        "integrity": "sha512-D/pYjCGrnJjnVZKRkdGnvu1q7MbeELRDMd5/xS62BKST5u3ma7DXwA1rowaskWp4mwVsza1h+WqGu/iLKNEhxg==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {},
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@jsr/hail-discordia__is-odd-ts@^0.1.0"
+      ]
+    }
+  }
+}
