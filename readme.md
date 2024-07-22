@@ -4,5 +4,5 @@
 
 
 read more here
-https://www.typescriptlang.org/tsconfig/#moduleResolution
-https://www.typescriptlang.org/tsconfig/#module
+* https://www.typescriptlang.org/tsconfig/#moduleResolution
+* https://www.typescriptlang.org/tsconfig/#module
